@@ -176,5 +176,8 @@ test/test_files/agenteval-in-out/out/
 *tmp_code_*
 test/agentchat/test_agent_scripts/*
 
+# dbdefaults
+samples/apps/autogen-studio/autogenstudio/utils/dbdefaults.json
+
 # test cache
 .cache_test
